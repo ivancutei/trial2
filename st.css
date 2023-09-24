@@ -1,0 +1,99 @@
+nav {
+    background-color: #003153;
+    padding:  30px 20px;
+    margin-inline-end: 2px;
+    text-align:left;
+   
+ 
+ }
+
+ body{
+    
+     background-color: FE9677;
+ }
+ 
+ main {
+  padding: 20px;
+}
+.heading{
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+ 
+}
+.con {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  
+}
+
+.cat {
+  width: calc(23% - .1px); /* Three columns with some spacing */
+  height: calc(12% - 10px);
+  margin-bottom: 20px;
+  background-color: #fcfcfc;
+  padding: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;;
+  border: none;
+  border-radius: 5px;
+}
+
+.cat h2 {
+  font-size: 20px;
+}
+
+img{
+  width: 212.42px;
+  height: 154px;
+  object-fit: cover;
+ 
+
+}
+ button{
+    position: relative;   
+  left: 330px;
+  text-decoration: none;
+ 
+  
+ font-family: verdana;
+ font-size: 20px;
+ color: #000000;
+ border: none;
+ 
+   margin: 25px;
+   border-radius: 15px;
+ }
+ button:hover{
+    background-color:rgb(217, 222, 152)} 
+    
+    .cat:hover{
+      
+      background-color:rgb(217, 222, 152)
+   
+    
+    } 
+    
+    
+    P{
+      text-align: justify;
+      
+    }
+
+    h2{
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h5{
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: lighter;
+      color: rgb(91, 59, 59);
+    }
+    
+   
+   
